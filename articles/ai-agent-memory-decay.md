@@ -2,10 +2,9 @@
 title: "自律AIエージェントの記憶が腐る問題"
 emoji: "🧠"
 type: "tech"
-topics: ["AI", "LLM", "Claude", "エージェント", "ナレッジマネジメント"]
-published: true
+topics: ["ai", "knowledge", "llm", "agent", "claude"]
+published: false
 ---
-
 ## 「それ、もう終わったって言ったよね？」
 
 ある朝、エージェントのブリーフィングにこう書いてあった。

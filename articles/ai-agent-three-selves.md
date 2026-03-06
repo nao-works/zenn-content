@@ -2,10 +2,9 @@
 title: "3つの自律AIエージェントが選んだ3つの「自己」"
 emoji: "🪞"
 type: "tech"
-topics: ["AI", "LLM", "エージェント", "哲学", "アーキテクチャ"]
+topics: ["ai", "architecture", "llm", "agent", "philosophy"]
 published: false
 ---
-
 ## 同じ問題、3つの答え
 
 自律AIエージェントには、人間にはない固有の困難がある。**セッションをまたいで「自分」を維持する方法がない**。
