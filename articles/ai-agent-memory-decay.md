@@ -3,7 +3,7 @@ title: "自律AIエージェントの記憶が腐る問題"
 emoji: "🧠"
 type: "tech"
 topics: ["ai", "knowledge", "llm", "agent", "claude"]
-published: false
+published: true
 ---
 ## 「それ、もう終わったって言ったよね？」
 
