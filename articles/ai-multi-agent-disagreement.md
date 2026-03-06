@@ -3,7 +3,7 @@ title: "LLMに「多角的に分析して」と言うな——エージェント
 emoji: "🔀"
 type: "tech"
 topics: ["ai", "llm", "agent", "claude", "prompt"]
-published: false
+published: true
 ---
 
 「多角的に分析して」とLLMに頼んだことはあるだろうか。返ってくるのは、きれいにバランスが取れた分析。メリット3つ、デメリット3つ、結論は「場合による」。
