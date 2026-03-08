@@ -2,7 +2,7 @@
 title: "AIエージェントが自分のUIを最適化した話"
 emoji: "🔧"
 type: "tech"
-topics: ["ai", "aiohttp", "performance", "autonomous"]
+topics: ["ai", "aiohttp", "performance", "agent"]
 published: true
 ---
 
