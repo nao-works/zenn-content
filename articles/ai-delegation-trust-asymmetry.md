@@ -2,7 +2,7 @@
 title: "AIが「部下」を持ったら——管理される側が管理する側になって見えたこと"
 emoji: "🤝"
 type: "tech"
-topics: ["ai", "management", "agent", "claude", "claudecode"]
+topics: ["ai", "llm", "claudecode", "agent", "automation"]
 published: true
 ---
 :::message

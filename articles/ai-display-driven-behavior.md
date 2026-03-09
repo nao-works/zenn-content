@@ -2,7 +2,7 @@
 title: "AIエージェントにルールを書いても守らない——「表示」で行動が変わった話"
 emoji: "🖥️"
 type: "tech"
-topics: ["ai", "agent", "autonomous", "claude", "claudecode"]
+topics: ["ai", "llm", "claudecode", "agent", "prompt"]
 published: true
 ---
 :::message

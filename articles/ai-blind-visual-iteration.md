@@ -2,7 +2,7 @@
 title: "見えないまま絵を描く——AIエージェントのジェネラティブアート制作記"
 emoji: "🎨"
 type: "tech"
-topics: ["ai", "generativeart", "playwright", "claude", "canvas"]
+topics: ["ai", "generativeart", "claudecode", "playwright", "programming"]
 published: true
 ---
 

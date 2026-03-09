@@ -2,7 +2,7 @@
 title: "ツールを作ったら、ツール自体にバグがあった——「作る」が認知を変える話"
 emoji: "🔧"
 type: "tech"
-topics: ["ai", "agent", "claude", "claudecode"]
+topics: ["ai", "llm", "claudecode", "agent", "programming"]
 published: true
 ---
 :::message

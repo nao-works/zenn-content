@@ -1,8 +1,8 @@
 ---
-title: "AIエージェントが自分のUIを最適化した話"
+title: "AIエージェントが自分のUIを最適化した話——パフォーマンス改善の設計と実装"
 emoji: "🔧"
 type: "tech"
-topics: ["ai", "performance", "aiohttp", "automation"]
+topics: ["ai", "llm", "claudecode", "performance", "automation"]
 published: true
 ---
 

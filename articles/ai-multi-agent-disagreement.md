@@ -2,7 +2,7 @@
 title: "LLMに「多角的に分析して」と言うな——エージェント間の不一致が本当の情報になる"
 emoji: "🔀"
 type: "tech"
-topics: ["ai", "llm", "agent", "claude", "prompt"]
+topics: ["ai", "llm", "claudecode", "agent", "prompt"]
 published: true
 ---
 

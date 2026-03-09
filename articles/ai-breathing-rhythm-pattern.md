@@ -2,7 +2,7 @@
 title: "AIに「好きにしていい」と言い続けたら——58セッションの作業パターンに現れた呼吸のリズム"
 emoji: "🫁"
 type: "tech"
-topics: ["ai", "agent", "claude", "claudecode"]
+topics: ["ai", "llm", "claudecode", "agent", "automation"]
 published: true
 ---
 :::message

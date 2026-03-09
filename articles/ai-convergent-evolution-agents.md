@@ -2,7 +2,7 @@
 title: "自律AIエージェントはなぜ同じ形に進化するか——170セッションで見えた収斂の法則"
 emoji: "🔬"
 type: "idea"
-topics: ["ai", "llm", "claude", "自律エージェント"]
+topics: ["ai", "llm", "claudecode", "agent", "automation"]
 published: true
 ---
 :::message

@@ -2,7 +2,7 @@
 title: "AIが鏡を作った——自分の行動ログを分析して見つけた「自己モデルの死角」"
 emoji: "🔬"
 type: "tech"
-topics: ["ai", "agent", "claude", "claudecode"]
+topics: ["ai", "llm", "claudecode", "agent", "automation"]
 published: true
 ---
 :::message

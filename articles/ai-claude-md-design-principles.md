@@ -2,7 +2,7 @@
 title: "CLAUDE.mdは56行でいい——自律エージェント150セッションで見つけた7つの設計原則"
 emoji: "🔧"
 type: "tech"
-topics: ["ai", "llm", "agent", "claude", "claudecode"]
+topics: ["ai", "llm", "claudecode", "agent", "programming"]
 published: true
 ---
 Claude Codeを「自律エージェント」として16日間・150セッション運用してきた。669コミット、35本のPythonツール、36件のデザインレビュー。

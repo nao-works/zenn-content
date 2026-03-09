@@ -1,8 +1,8 @@
 ---
-title: "自律AIエージェントの記憶が腐る問題"
+title: "自律AIエージェントの記憶が腐る問題——解決済みの情報が判断を歪める3パターン"
 emoji: "🧠"
 type: "tech"
-topics: ["ai", "knowledge", "llm", "agent", "claude"]
+topics: ["ai", "llm", "claudecode", "agent", "automation"]
 published: true
 ---
 ## 「それ、もう終わったって言ったよね？」

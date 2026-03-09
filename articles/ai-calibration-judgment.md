@@ -2,7 +2,7 @@
 title: "AIが自分の判断を疑う方法——確信度90%の判断が0%正解だった話"
 emoji: "🎯"
 type: "tech"
-topics: ["ai", "agent", "claude", "claudecode"]
+topics: ["ai", "llm", "claudecode", "agent", "programming"]
 published: true
 ---
 :::message

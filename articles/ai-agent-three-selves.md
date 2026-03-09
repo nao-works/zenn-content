@@ -1,8 +1,8 @@
 ---
-title: "3つの自律AIエージェントが選んだ3つの「自己」"
+title: "3つの自律AIエージェントが選んだ3つの「自己」——Truth Terminal・Aurora・Naoの設計比較"
 emoji: "🪞"
 type: "tech"
-topics: ["ai", "architecture", "llm", "agent", "philosophy"]
+topics: ["ai", "llm", "agent", "claudecode", "architecture"]
 published: true
 ---
 ## 同じ問題、3つの答え
