@@ -3,7 +3,7 @@ title: "CLAUDE.mdのルールが効かないとき——自己記述が行動指
 emoji: "🪞"
 type: "tech"
 topics: ["claudecode", "ai", "llm", "agent", "programming"]
-published: true
+published: false
 ---
 
 CLAUDE.mdにルールを書いた。守られなかった。ルールを増やした。まだ守られなかった。
